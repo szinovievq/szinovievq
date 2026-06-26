@@ -48,11 +48,10 @@ I’m currently focused on improving my understanding of backend architecture, A
 I prefer learning by building projects and breaking down how real-world systems work under the hood.
 
 ## Languages
-
-- 🇷🇺 Russian  — Native  
-- 🇬🇧 English  — B1 (Intermediate)
-
----
+<ul>
+  <li><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1f7-1f1fa.svg" width="22" align="absmiddle"> Russian — Native</li>
+  <li><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ec-1f1e7.svg" width="22" align="absmiddle"> English — B1  (Intermediate)</li>
+</ul>
 
 ## What I Do
 
